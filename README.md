@@ -49,6 +49,9 @@ for i, name in enumerate(df['Name']):
 # Show the line chart with bubbles
 plt.show()
 
+This is our image diagram of Matplotlib here sir.
+![diagram_project_image_matplotlib](https://github.com/AuntBawHein/Matplotlib_function_Python_project_about_Myanmar/assets/150255399/48eaba11-4d89-445d-b090-6502295e21e7)
+
 
 These are all questions and images of the line chart of Matplotlib for the Python Project.
 
